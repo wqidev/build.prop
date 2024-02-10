@@ -39,6 +39,7 @@ on:
           - volantisg
           - volantis
           - fugu
+          - tangorpro
 
 jobs:
   build:
